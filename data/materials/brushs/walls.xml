@@ -74,6 +74,8 @@
 			<door id="1633" type="normal" open="true"/>
 			<door id="1640" type="locked" open="false"/>
 			<door id="1641" type="locked" open="true"/>
+			<door id="57258" type="locked" open="false"/>
+			<door id="57262" type="locked" open="true"/>
 			<door id="1644" type="quest" open="false"/>
 			<door id="1645" type="quest" open="true"/>
 			<door id="1648" type="magic" open="false"/>
@@ -95,6 +97,8 @@
 			<door id="1630" type="normal" open="true"/>
 			<door id="1638" type="locked" open="false"/>
 			<door id="1639" type="locked" open="true"/>
+			<door id="57260" type="locked" open="false"/>
+			<door id="57261" type="locked" open="true"/>
 			<door id="1642" type="quest" open="false"/>
 			<door id="1643" type="quest" open="true"/>
 			<door id="1646" type="magic" open="false"/>

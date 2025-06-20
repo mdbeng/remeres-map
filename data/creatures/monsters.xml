@@ -1658,4 +1658,12 @@
   <monster name="angry sugar fairy" looktype="1747" lookhead="15" lookbody="6" looklegs="53" lookfeet="93"/>
   <monster name="candy floss elemental" looktype="1749" lookfeet="94"/>
   <monster name="Goggle Cake" looktype="1740" lookbody="10" looklegs="115" lookfeet="72"/>
+  <monster name="Brinebrute Inferniarch" looktype="1794"/>
+  <monster name="Gorger Inferniarch" looktype="1797"/>
+  <monster name="Sineater Inferniarch" looktype="1795"/>
+  <monster name="Broodrider Inferniarch" looktype="1796"/>
+  <monster name="Hellhunter Inferniarch" looktype="1793"/>
+  <monster name="Spellreaper Inferniarch" looktype="1792"/>
+  <monster name="Skull Fish" looktype="1294"/>
+  <monster name="Tornado" looktype="1699"/>
 </monsters>

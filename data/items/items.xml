@@ -75719,5 +75719,20 @@ Granted by TibiaGoals.com"/>
 			<attribute key="vocation" value="Sorcerer;true, Master Sorcerer"/>
 		</attribute>
 	</item>
+
+	<item id="57260" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockProjectile" value="1"/>
+	</item>
+	<item id="57261" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
+	<item id="57258" article="a" name="closed door">
+		<attribute key="type" value="door"/>
+		<attribute key="blockProjectile" value="1"/>
+	</item>
+	<item id="57262" article="an" name="open door">
+		<attribute key="type" value="door"/>
+	</item>
 </items>
 
