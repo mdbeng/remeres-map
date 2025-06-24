@@ -1015,7 +1015,7 @@
 	<npc name="Dancing Fairy" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Fa'Hradin" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Candis" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
-	<npc name="BuyandSell All" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
+	<npc name="Vaelion" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Baa'leal" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="An Old Dragonlord" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Corym Slave" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
@@ -1085,4 +1085,8 @@
 	<npc name="Gnomish Operative (Catching)" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Gelidrazah'S Thirst" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
 	<npc name="Farhilorn Of The Winter Court" looktype="128" lookitem="0" lookaddon="0" lookhead="0" lookbody="0" looklegs="0" lookfeet="0" />
+	<npc name="Enpa-Deia Pema" looktype="1825" lookitem="0" lookaddon="3" lookhead="22" lookbody="2" looklegs="41" lookfeet="119" />
+	<!-- banker -->
+	<npc name="Varkhan" looktype="129" lookitem="0" lookaddon="0" lookhead="57" lookbody="113" looklegs="95" lookfeet="113" />
+	<npc name="Darian" looktype="129" lookitem="0" lookaddon="0" lookhead="57" lookbody="113" looklegs="95" lookfeet="113" />
 </npcs>
